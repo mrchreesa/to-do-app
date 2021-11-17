@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../todo-frontend"
+    },
+    {
+      "path": "../../../Node/Tutorial node 1/node-express-course/03-task-manager/starter"
+    }
+  ]
+}
